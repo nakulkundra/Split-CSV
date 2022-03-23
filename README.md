@@ -1,6 +1,7 @@
 # Split-CSV
 
 
+![MarineGEO circle logo](https://github.com/nakulkundra/Split-CSV/blob/main/pexels-imustbedead-11491473.jpg)
 The following script quickly cuts your large CSV into smaller files.
 
 First up, press CTRL + X to open the Windows Power Menu, then select PowerShell. If PowerShell isn't an option, input powershell in your Start Menu search bar and select the Best Match.
